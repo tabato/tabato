@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Thomas Abato
 
-<a href="https://www.linkedin.com/in/thomas-abato-b40882253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="https://www.linkedin.com/in/thomasabato/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abatot@moravian.edu)](mailto:abatot@moravian.edu)
 
 
