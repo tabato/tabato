@@ -5,7 +5,7 @@
 
 
 ## ⚡ About Me
-I am currently a Junior Computer Science Major at Moravian University. I enjoy the intricacies that come with being a developer and have strong interests that involve both Cyber Security and Cloud Computing. I aspire to land a role where I can maximize my abilities to not only code, but to effectively work and communicate with people. Outside of school, I enjoy playing sports, video games, and socializing with friends. 
+I am currently a Senior Computer Science Major at Moravian University. I enjoy the intricacies that come with being a developer and have strong interests that involve both Cyber Security and Cloud Computing. I aspire to land a role where I can maximize my abilities to not only code, but to effectively work and communicate with people. Outside of school, I enjoy playing sports, video games, and socializing with friends. 
 
 ## 📍 Notable Projects:
 * [CI/CD Pipeline DevOps Project](https://github.com/cs220s22/CICD-Pipeline-TCR)
