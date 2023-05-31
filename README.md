@@ -10,6 +10,7 @@ I am currently a Senior Computer Science Major at Moravian University. I enjoy t
 ## 📍 Notable Projects:
 * [CI/CD Pipeline DevOps Project](https://github.com/cs220s22/CICD-Pipeline-TCR)
 * [Sandwich Truck Simulation](https://github.com/tabato/sandwichTruckProj.)
+* [Katacoda Scenarios](https://github.com/tabato/katacoda-scenarios)
 
 ## 📱 Connect With Me:
 <p align="left">
