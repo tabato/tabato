@@ -2,24 +2,14 @@
 
 # Thomas Abato
 
-**Builder · Developer · Founder in Progress**
+**Developer · Founder · Content**
 
-App Developer at Expedient · Building AI tools on the side · Making content about all of it
+App Developer at Expedient · Building AI tools on the side · Documenting the process
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasabato)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thomasabato)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/thomasabatojr)
 [![Email](https://img.shields.io/badge/Email-CC0000?style=flat-square&logo=gmail&logoColor=white)](mailto:)
-
-</div>
-
----
-
-<div align="center">
-
-### I build things. Ship them. Make content about it. Repeat.
-
-Currently exploring AI sales tools, automation, and whatever solves ambitious people's problems, fast.
 
 </div>
 
