@@ -39,7 +39,7 @@ Currently exploring AI sales tools, automation, and whatever solves ambitious pe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tabato&show_icons=true&hide_border=true&title_color=CC0000&icon_color=CC0000&text_color=000000&bg_color=ffffff" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tabato&show_icons=true&hide_border=true&title_color=CC0000&icon_color=CC0000&text_color=000000&bg_color=00000000&cache_seconds=1800" alt="GitHub stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabato&hide_border=true&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&background=ffffff&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" alt="GitHub streak"/>
 
