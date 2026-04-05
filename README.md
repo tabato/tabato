@@ -8,10 +8,10 @@
 I am currently an App Developer at Expedient. I enjoy the intricacies that come with being a developer and have strong interests that involve both Cyber Security and Cloud Computing. I aspire to maximize my abilities to not only code, but to effectively work and communicate with people. Outside of work, I enjoy playing sports, video games, and socializing with friends. 
 
 ## 📍 Notable Projects:
+* [AI Lead Magnet Generator](https://github.com/tabato/lead-magnet-generator)
 * [Steam Web App](https://github.com/cs298-398f23/steamWebApp-TDK)
 * [Senior Capstone Project - Mirrulations Search](https://github.com/cs334s24/Mirrulations_Search)
 * [CI/CD Pipeline DevOps Project](https://github.com/cs220s22/CICD-Pipeline-TCR)
-* [Katacoda Scenarios](https://github.com/tabato/katacoda-scenarios)
 
 ## 📱 Connect With Me:
 <p align="left">
