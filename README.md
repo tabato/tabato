@@ -27,6 +27,8 @@ Currently exploring AI sales tools, automation, and whatever solves ambitious pe
 
 ## Projects
 
+[![lead-magnet-generator](https://github-readme-stats.vercel.app/api/pin/?username=tabato&repo=lead-magnet-generator&title_color=CC0000&icon_color=CC0000&text_color=ffffff&bg_color=111111&hide_border=true)](https://github.com/tabato/lead-magnet-generator)
+
 | | Project | Description | |
 |---|---|---|---|
 | 🔴 | [Lead Magnet Generator](https://github.com/tabato/lead-magnet-generator) | AI tool → 7 lead magnet ideas from your niche + ICP | [Live ↗](https://tabato.github.io/lead-magnet-generator) |
