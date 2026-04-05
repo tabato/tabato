@@ -1,6 +1,8 @@
 <div align="center">
 
-# THOMAS ABATO
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=40&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Thomas+Abato;Builder.+Developer.+Founder.;Building+things+that+matter." alt="Typing SVG"/>
+</div>
 
 **Builder · Developer · Founder in Progress**
 
