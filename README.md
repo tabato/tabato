@@ -17,7 +17,7 @@ App Developer at Expedient · Building AI tools and open source · Documenting t
 | | Project | Description | |
 |---|---|---|---|
 | 🔴 | [Lead Magnet Generator](https://github.com/tabato/lead-magnet-generator) | AI tool → 7 lead magnet ideas from your niche + ICP | [Live ↗](https://tabato.github.io/lead-magnet-generator) |
-| 🟢 | [OtterFlow](https://github.com/tabato/otterflow) | Lightweight Python framework for multi-step AI agents | [Repo ↗](https://github.com/tabato/otterflow) |
+| 🟤 | [OtterFlow](https://github.com/tabato/otterflow) | Lightweight Python framework for multi-step AI agents | [Repo ↗](https://github.com/tabato/otterflow) |
 | ⚪ | [CSSgen](https://github.com/tabato/css-tool) | Visual CSS effects generator — no fluff, just code | [Live ↗](https://tabato.github.io/css-tool) |
 | ⚪ | [Mirrulations Search](https://github.com/cs334s24/Mirrulations_Search) | Search engine for federal regulatory data | — |
 | ⚪ | [zip-system](https://github.com/tabato/zip-system) | Recursive AWS S3 downloader with zip packaging and email delivery | — |
