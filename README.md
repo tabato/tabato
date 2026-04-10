@@ -4,7 +4,7 @@
 
 **Developer · Founder · Content**
 
-App Developer at Expedient · Building AI tools on the side · Documenting the process
+App Developer at Expedient · Building AI tools and open source · Documenting the process
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasabato)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thomasabato)
