@@ -8,7 +8,7 @@ App Developer at Expedient · Building AI tools and open source · Documenting t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasabato)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thomasabato)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/thomasabatojr)
-[![Email](https://img.shields.io/badge/Email-CC0000?style=flat-square&logo=gmail&logoColor=white)](mailto:)
+[![Email](https://img.shields.io/badge/Email-CC0000?style=flat-square&logo=gmail&logoColor=white)](https://linkedin.com/in/thomasabato)
 
 ---
 
