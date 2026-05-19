@@ -24,6 +24,12 @@ App Developer at Expedient · Building AI tools and open source · Documenting t
 
 ---
 
+## Currently Building
+
+🚀 **[zarenova.ai](https://zarenova.ai)** — working on something new. stay tuned.
+
+---
+
 <img src="https://streak-stats.demolab.com/?user=tabato&hide_border=true&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&background=ffffff&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000"/>
 
 ---
